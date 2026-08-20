@@ -1,0 +1,40 @@
+{
+  "type": "quizAppExport",
+  "version": 1,
+  "exportId": "exp_mt164gt0j1yizr",
+  "exportedAt": "2026-08-20T06:57:30.132Z",
+  "quizSets": [
+    {
+      "id": "set_mt16139m4vfej4",
+      "name": "Test",
+      "questions": [
+        {
+          "id": "q_mt161vrmxejw1k",
+          "type": "choice",
+          "text": "ドイツの首都は？",
+          "choices": [
+            "ボン",
+            "ベルリン",
+            "フランクフルト",
+            "ミュンヘン"
+          ],
+          "correctIndex": 1,
+          "timeLimit": 10
+        },
+        {
+          "id": "q_mt163wvw9u0mty",
+          "type": "choice",
+          "text": "東京都の区で最も人口が多いのは？",
+          "choices": [
+            "世田谷区",
+            "杉並区",
+            "千代田区",
+            "荒川区"
+          ],
+          "correctIndex": 0,
+          "timeLimit": 10
+        }
+      ]
+    }
+  ]
+}

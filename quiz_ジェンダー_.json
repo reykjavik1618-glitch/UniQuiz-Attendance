@@ -1,0 +1,79 @@
+{
+  "type": "quizAppExport",
+  "version": 1,
+  "exportId": "exp_mumslskmztwj05",
+  "exportedAt": "2026-09-29T14:49:42.118Z",
+  "quizSets": [
+    {
+      "id": "set_mums8ee231qwdu",
+      "name": "ジェンダー①",
+      "questions": [
+        {
+          "id": "q_mumsambaqc36un",
+          "type": "choice",
+          "text": "ジェンダー論はどこで発展した？",
+          "choices": [
+            "第二次世界大戦",
+            "第一波フェミニズム",
+            "第二波フェミニズム",
+            "フラワーデモ"
+          ],
+          "correctIndex": 2,
+          "timeLimit": 30
+        },
+        {
+          "id": "q_mumsc012anmrar",
+          "type": "choice",
+          "text": "セックスの説明として正しいものは？",
+          "choices": [
+            "社会的に作られた性差",
+            "文化的に作られた性差",
+            "意図的に作られた性差",
+            "生物学的性差"
+          ],
+          "correctIndex": 3,
+          "timeLimit": 30
+        },
+        {
+          "id": "q_mumsduite1aaf9",
+          "type": "choice",
+          "text": "「人は女に生まれるのではない、女になるのだ」という名言を残したのは？",
+          "choices": [
+            "シモーヌ・ド・ボーボワール",
+            "キャロル・ギリガン",
+            "フランシス・オルセン",
+            "ジュディス・バトラー"
+          ],
+          "correctIndex": 0,
+          "timeLimit": 30
+        },
+        {
+          "id": "q_mumsgmz7d3873m",
+          "type": "choice",
+          "text": "2026年ジェンダーギャップ指数、日本は何位？",
+          "choices": [
+            "58位",
+            "79位",
+            "117位",
+            "145位"
+          ],
+          "correctIndex": 2,
+          "timeLimit": 30
+        },
+        {
+          "id": "q_mumslj69tsd41c",
+          "type": "choice",
+          "text": "次のうち、ジェンダーバイアスの例として最も適切なものは？",
+          "choices": [
+            "グループ発表の順番を、クジ引きで決めた",
+            "台風が接近したので、部活の練習が中止になった",
+            "学園祭の実行委員を、立候補者の中から投票で選んだ",
+            "サークルの新歓で、「マネージャーは女子、キャプテンは男子」と後輩に伝えた"
+          ],
+          "correctIndex": 3,
+          "timeLimit": 30
+        }
+      ]
+    }
+  ]
+}

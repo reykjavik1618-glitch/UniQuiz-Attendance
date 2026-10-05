@@ -561,6 +561,10 @@ function importQuizData(payload, opts){
   if(payload.exportId && opts.dedupe && data.importedExportIds.includes(payload.exportId)){
     return false;
   }
+  if(opts.replace){
+    data.quizSets = [];
+    data.importedExportIds = [];
+  }
   const importedNames = [];
   payload.quizSets.forEach(s=>{
     const newSet = {
@@ -634,7 +638,7 @@ function tryAutoImportFromUrl(){
     const url = params.get('import');
     if(!url) return;
     fetch(url).then(function(r){ return r.json(); }).then(function(json){
-      importQuizData(json, { silent:true, dedupe:true });
+      importQuizData(json, { silent:true, replace:true });
     }).catch(function(){ /* ignore network/parse errors for auto-import */ });
   }catch(e){}
 }

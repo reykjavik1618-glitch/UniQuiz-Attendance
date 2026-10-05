@@ -1,0 +1,79 @@
+{
+  "type": "quizAppExport",
+  "version": 1,
+  "exportId": "exp_muuzka2y441pr4",
+  "exportedAt": "2026-10-05T08:26:38.218Z",
+  "quizSets": [
+    {
+      "id": "set_muuxicyp0cr5pj",
+      "name": "ジェンダー2",
+      "questions": [
+        {
+          "id": "q_muuzgjsvpmyi4h",
+          "type": "choice",
+          "text": "ジェンダーギャップ指数（GGGI）を算出する4分野に含まれないのは？",
+          "choices": [
+            "経済",
+            "教育",
+            "治安",
+            "政治"
+          ],
+          "correctIndex": 2,
+          "timeLimit": 30
+        },
+        {
+          "id": "q_muuzil36gqag4h",
+          "type": "choice",
+          "text": "ジェンダーギャップ指数（GGGI）の値について、正しいものは？",
+          "choices": [
+            "0が完全平等、1が完全不平等を示す",
+            "男性に対する女性の割合を示し、1に近いほど平等",
+            "100点満点で各国が採点される",
+            "数値が高いほど男性優位であることを示す"
+          ],
+          "correctIndex": 1,
+          "timeLimit": 30
+        },
+        {
+          "id": "q_muuzhbts3gotbu",
+          "type": "choice",
+          "text": "GGGIで13回連続1位を獲得している国は？",
+          "choices": [
+            "フィンランド",
+            "アイスランド",
+            "ノルウェー",
+            "スウェーデン"
+          ],
+          "correctIndex": 1,
+          "timeLimit": 30
+        },
+        {
+          "id": "q_muuzjamiqh6pgx",
+          "type": "choice",
+          "text": "日本で性別役割分業観が一般に浸透していったのは、主にどの時期とされている？",
+          "choices": [
+            "明治維新の頃（1870年代）",
+            "高度経済成長期（1950〜1970年頃）",
+            "バブル期（1980年代後半）",
+            "平成不況期（1990年代）"
+          ],
+          "correctIndex": 1,
+          "timeLimit": 30
+        },
+        {
+          "id": "q_muuzjt56y49n3p",
+          "type": "choice",
+          "text": "SDGs17の目標のうち、「ジェンダー平等を実現しよう」は目標いくつ？",
+          "choices": [
+            "目標3",
+            "目標5",
+            "目標8",
+            "目標10"
+          ],
+          "correctIndex": 1,
+          "timeLimit": 30
+        }
+      ]
+    }
+  ]
+}

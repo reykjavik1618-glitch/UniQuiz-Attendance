@@ -1,0 +1,105 @@
+{
+  "type": "quizAppExport",
+  "version": 1,
+  "exportId": "exp_mw4ytk2rvykezn",
+  "exportedAt": "2026-11-06T12:43:15.555Z",
+  "quizSets": [
+    {
+      "id": "set_mw4ymuvkxsby0e",
+      "name": "パープルリボン",
+      "questions": [
+        {
+          "id": "q_mw4ynqmg4hz3l2",
+          "type": "choice",
+          "text": "Q1. 「女性に対する暴力をなくす運動」の最終日、11月25日は何の日？",
+          "choices": [
+            "国際女性デー",
+            "女性に対する暴力撤廃国際日",
+            "世界人権デー",
+            "男女共同参画週間の最終日"
+          ],
+          "correctIndex": 1,
+          "timeLimit": 30
+        },
+        {
+          "id": "q_mw4yoi14v55zr0",
+          "type": "choice",
+          "text": "「アクティブ・バイスタンダー」の説明として正しいものは？",
+          "choices": [
+            "救急現場で応急手当や心肺蘇生をする医療従事者",
+            "被害者の代わりに加害者を訴える専門家",
+            "暴力やハラスメントの場に居合わせた第三者で、状況に応じた行動で被害を軽くする人",
+            "事件を目撃しても、関わらないようにする人"
+          ],
+          "correctIndex": 2,
+          "timeLimit": 30
+        },
+        {
+          "id": "q_mw4ypevtwv3fm1",
+          "type": "choice",
+          "text": "混雑した電車で痴漢に気づき、非常通報ボタンを押して駅員に知らせた。5つのDのどれに当たる？",
+          "choices": [
+            "DIRECT（直接介入する）",
+            "DISTRACT（気をそらす）",
+            "DELEGATE（助けを求める）",
+            "DOCUMENT（記録する）"
+          ],
+          "correctIndex": 2,
+          "timeLimit": 30
+        },
+        {
+          "id": "q_mw4yqnlbor4z9a",
+          "type": "choice",
+          "text": "性被害に居合わせたときの行動として、適切でないものは？",
+          "choices": [
+            "被害者に「次で降りますか？」と話しかける",
+            "あとで被害者に「さっき大丈夫だった？」と声をかける",
+            "撮影した動画をすぐSNSに投稿して、加害者をさらす",
+            "近くの駅員や店員に知らせる"
+          ],
+          "correctIndex": 2,
+          "timeLimit": 30
+        },
+        {
+          "id": "q_mw4yrczoj8i6wn",
+          "type": "choice",
+          "text": "内閣府の調査（2023年度）で、結婚したことのある女性のうち、配偶者から暴力を受けたことがある人の割合に最も近いものは？",
+          "choices": [
+            "約20人に1人",
+            "約10人に1人",
+            "約4人に1人",
+            "約2人に1人"
+          ],
+          "correctIndex": 2,
+          "timeLimit": 30
+        },
+        {
+          "id": "q_mw4ys8svmfwovh",
+          "type": "choice",
+          "text": "DV相談プラスに寄せられた相談（2024年度）で、最も多い内容は？",
+          "choices": [
+            "身体的DV",
+            "精神的DV",
+            "経済的DV",
+            "性的DV"
+          ],
+          "correctIndex": 1,
+          "timeLimit": 30
+        },
+        {
+          "id": "q_mw4yth3ubsojwy",
+          "type": "choice",
+          "text": "「DVのサイクル」の順番として正しいものは？",
+          "choices": [
+            "イライラ期 → 爆発期 → ラブラブ期",
+            "ラブラブ期 → 爆発期 → イライラ期",
+            "爆発期 → イライラ期 → ラブラブ期",
+            "イライラ期 → ラブラブ期 → 爆発期"
+          ],
+          "correctIndex": 0,
+          "timeLimit": 30
+        }
+      ]
+    }
+  ]
+}
